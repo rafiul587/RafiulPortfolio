@@ -41,9 +41,9 @@ export default function About() {
               </p>
               <div className="mt-5">
                 <Fade up>
-                  <Info name="email" details="tahirahmad0234@gamil.com" />
-                  <Info name="phone" details="+8801610881871" />
-                  <Info name="address" details="Rajshahi, Bangladesh" />
+                  <Info name="email" details="rafiul587@gamil.com" />
+                  <Info name="phone" details="+8801644562164" />
+                  <Info name="address" details="Dhaka, Bangladesh" />
                   <Info name="status" details="Available" />
                 </Fade>
               </div>

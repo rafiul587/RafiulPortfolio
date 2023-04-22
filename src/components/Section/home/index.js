@@ -31,14 +31,14 @@ export default function Home() {
               </div>
               <h2 className="text-3xl md:text-4xl font-medium pb-4 pt-2 ">
                 <Fade up cascade>
-                  Tahir Ahmad (Sani)
+                  Rafiul Islam
                 </Fade>
               </h2>{" "}
               <Typed
                 strings={[
-                  "Web developer",
-                  "Web designer",
-                  "React Developer",
+                  "Android Developer",
+                  "Kotlin Developer",
+                  "Java Developer",
                   "UI/UX designer",
                 ]}
                 typeSpeed={90}
@@ -67,7 +67,7 @@ export default function Home() {
                 </Link>
 
                 <a
-                  href="https://drive.google.com/uc?export=download&id=1k2sWD02DE43O65nkMLJ-s3GtwtYZrhPI"
+                  href="https://drive.google.com/uc?export=download&id=1UYN8rvPlQVScLRBhN3TISUvcBSwwGQSD"
                   download
                 >
                   <Button name="Download CV" />

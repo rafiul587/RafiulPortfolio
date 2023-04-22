@@ -1,11 +1,20 @@
 [
   {
     "id": 1,
-    "educationTitle": "Rajshahi polytechnic institute",
-    "startDate": "2019",
-    "endDate": "NOW",
-    "position": "Computer Science",
+    "educationTitle": "Rajshahi Polytechnic Institute",
+    "startDate": "2015",
+    "endDate": "2019",
+    "position": "Electromedical Technology",
     "location": "Rajshahi, Bangladesh",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni natus, sunt, dignissimos repellendus ut rerum inventore tempora consectetur quo iure voluptates velit quam officia cum aperiam animi aspernatur in soluta.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni natus, sunt, dignissimos repellendus ut rerum inventore tempora consectetur quo iure voluptates velit quam officia cum aperiam animi aspernatur in soluta."
+    "description": ""
+  },
+  {
+    "id": 2,
+    "educationTitle": "Dhaka International University",
+    "startDate": "2022",
+    "endDate": "present",
+    "position": "Computer Science Engineering",
+    "location": "Dhaka, Bangladesh",
+    "description": ""
   }
 ]

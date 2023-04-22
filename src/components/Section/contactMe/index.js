@@ -70,19 +70,19 @@ export default function ContactMe() {
                 <SocialContact
                   icon="fa-solid fa-envelope"
                   name="email"
-                  link="mailto:tahirahmad0234@gmail.com"
+                  link="mailto:rafiul587@gmail.com"
                   delay={100}
                 />
                 <SocialContact
                   icon="fa-brands fa-whatsapp"
                   name="whatsapp"
-                  link="https://wa.me/+8801610881871/"
+                  link="https://wa.me/+8801644562164/"
                   delay={150}
                 />
                 <SocialContact
                   icon="fa-brands fa-facebook-messenger"
                   name="messenger"
-                  link="https://www.messenger.com/t/tahirahmad01"
+                  link="https://www.messenger.com/t/rafi1357"
                   delay={200}
                 />
                 <SocialContact
@@ -94,19 +94,19 @@ export default function ContactMe() {
                 <SocialContact
                   icon="fab fa-linkedin-in"
                   name="linkedin"
-                  link="https://www.linkedin.com/in/tahirahmad01/"
+                  link="https://www.linkedin.com/in/rafi1357/"
                   delay={250}
                 />
                 <SocialContact
                   icon="fab fa-twitter"
                   name="twitter"
-                  link="https://twitter.com/tahir_ahmad01"
+                  link="https://twitter.com/rafiul587"
                   delay={300}
                 />
                 <SocialContact
                   icon="fab fa-instagram"
                   name="instagram"
-                  link="https://www.instagram.com/tahir_ahmad01/"
+                  link="https://www.instagram.com/rafiul1357/"
                   delay={350}
                 />
               </ul>
